@@ -1,6 +1,6 @@
 # CANBadger
 Welcome to the home of Code White's CANBadger!
 
-While we get the code clean and ready, you can already start by ordering your CANBadger PCB and components, and getting it ready!
+Here, you can find everything you need to get your own CANBadger!
 
-Check out the Wiki for info about it!
+Check out the Wiki and READMEs for info about it!

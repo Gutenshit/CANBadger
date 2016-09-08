@@ -1,0 +1,11 @@
+data/lwip.lib.i
+data/LwIPNetworking.lib.i
+data/lwip-eth.lib.i
+data/EthernetInterface.cpp.i
+data/lwip-sys.lib.i
+data/lwipopts_conf.h.i
+data/Socket.lib.i
+data/mbed-socket.lib.i
+data/EthernetInterface.h.i
+data/mbed-lwip.lib.i
+data/eth_arch.h.i

@@ -1,0 +1,6 @@
+data/arch/sys_arch.c.i
+data/arch/cc.h.i
+data/arch/memcpy.c.i
+data/arch/sys_arch.h.i
+data/arch/checksum.c.i
+data/arch/perf.h.i

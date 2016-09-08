@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+<includepath workspace_path="true">/${ProjName}/.</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem-RTOS</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem-RTOS/FATFileSystem</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem-RTOS/RTOS_SPI</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem-RTOS/RTOS_SPI/SimpleDMA</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem-RTOS/FATFileSystem/ChaN</includepath>
+<includepath workspace_path="true">/${ProjName}/atoh</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtos</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M/TARGET_M3/TOOLCHAIN_GCC</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBAudio</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBDevice</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBHID</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBMIDI</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBMSD</includepath>
+<includepath workspace_path="true">/${ProjName}/USBDevice/USBSerial</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M/TARGET_M3</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/Socket</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth/arch</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth/arch/TARGET_NXP</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-sys</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-sys/arch</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/ipv4</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/ipv4/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/netif</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/netif</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/netif/ppp</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/api</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core/ipv4</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core/snmp</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP/TARGET_LPC176X</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR</includepath>
+<includepath workspace_path="true">/CAN_UDS_Handler_copy/USBDevice</includepath>
+<includepath workspace_path="true">/CAN_UDS_Handler_copy/USBDevice/USBDevice</includepath>
+<includepath workspace_path="true">/CAN_UDS_Handler_copy/USBDevice/USBSerial</includepath>
+
+</language>
+<language name="C Source File">
+<includepath workspace_path="true">/${ProjName}/.</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem/FATFileSystem</includepath>
+<includepath workspace_path="true">/${ProjName}/SDFileSystem/FATFileSystem/ChaN</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtos</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M/TARGET_M3</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed-rtos/rtx/TARGET_CORTEX_M/TARGET_M3/TOOLCHAIN_GCC</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/Socket</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth/arch</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-eth/arch/TARGET_NXP</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-sys</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip-sys/arch</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/ipv4</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/ipv4/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/lwip</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/include/netif</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/netif</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/netif/ppp</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/api</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core/ipv4</includepath>
+<includepath workspace_path="true">/${ProjName}/EthernetInterface/lwip/core/snmp</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP/TARGET_LPC176X</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768</includepath>
+<includepath workspace_path="true">/${ProjName}/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR</includepath>
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+<language name="Additional Assembly Source Files">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+<macro>
+<name>__NEWLIB__</name><value/>
+</macro>
+<macro>
+<name>__CODE_RED</name><value/>
+</macro>
+<macro>
+<name>CPP_USE_HEAP</name><value/>
+</macro>
+<macro>
+<name>__CORTEX_M3</name><value/>
+</macro>
+<macro>
+<name>TOOLCHAIN_GCC</name><value/>
+</macro>
+<macro>
+<name>TOOLCHAIN_GCC_CR</name><value/>
+</macro>
+<macro>
+<name>ARM_MATH_CM3</name><value/>
+</macro>
+<macro>
+<name>TARGET_LIKE_CORTEX_M3</name><value/>
+</macro>
+<macro>
+<name>TARGET_CORTEX_M</name><value/>
+</macro>
+<macro>
+<name>TARGET_LIKE_MBED</name><value/>
+</macro>
+<macro>
+<name>TARGET_LPC176X</name><value/>
+</macro>
+<macro>
+<name>TARGET_NXP</name><value/>
+</macro>
+<macro>
+<name>TARGET_LPC1768</name><value/>
+</macro>
+<macro>
+<name>__MBED__</name><value>1</value>
+</macro>
+<macro>
+<name>TARGET_M3</name><value/>
+</macro>
+<macro>
+<name>TARGET_MBED_LPC1768</name><value/>
+</macro>
+<macro>
+<name>MBED_BUILD_TIMESTAMP</name><value>1459841596.24</value>
+</macro>
+
+</language>
+<language name="C Source File">
+<macro>
+<name>__NEWLIB__</name><value/>
+</macro>
+<macro>
+<name>__CODE_RED</name><value/>
+</macro>
+<macro>
+<name>CPP_USE_HEAP</name><value/>
+</macro>
+<macro>
+<name>__CORTEX_M3</name><value/>
+</macro>
+<macro>
+<name>TOOLCHAIN_GCC</name><value/>
+</macro>
+<macro>
+<name>TOOLCHAIN_GCC_CR</name><value/>
+</macro>
+<macro>
+<name>ARM_MATH_CM3</name><value/>
+</macro>
+<macro>
+<name>TARGET_LIKE_CORTEX_M3</name><value/>
+</macro>
+<macro>
+<name>TARGET_CORTEX_M</name><value/>
+</macro>
+<macro>
+<name>TARGET_LIKE_MBED</name><value/>
+</macro>
+<macro>
+<name>TARGET_LPC176X</name><value/>
+</macro>
+<macro>
+<name>TARGET_NXP</name><value/>
+</macro>
+<macro>
+<name>TARGET_LPC1768</name><value/>
+</macro>
+<macro>
+<name>__MBED__</name><value>1</value>
+</macro>
+<macro>
+<name>TARGET_M3</name><value/>
+</macro>
+<macro>
+<name>TARGET_MBED_LPC1768</name><value/>
+</macro>
+<macro>
+<name>MBED_BUILD_TIMESTAMP</name><value>1459841596.24</value>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+<language name="Additional Assembly Source Files">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>

@@ -1,0 +1,4 @@
+data/SDFileSystem.h.i
+data/FATFileSystem.lib.i
+data/RTOS_SPI.lib.i
+data/SDFileSystem.cpp.i

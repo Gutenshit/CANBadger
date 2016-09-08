@@ -1,0 +1,14 @@
+data/ChaN/integer.h.i
+data/ChaN/ffconf.h.i
+data/FATDirHandle.h.i
+data/MemFileSystem.h.i
+data/ChaN/ff.h.i
+data/FATDirHandle.cpp.i
+data/FATFileSystem.cpp.i
+data/ChaN/diskio.h.i
+data/FATFileHandle.h.i
+data/ChaN/ccsbcs.cpp.i
+data/ChaN/ff.cpp.i
+data/FATFileSystem.h.i
+data/FATFileHandle.cpp.i
+data/ChaN/diskio.cpp.i
